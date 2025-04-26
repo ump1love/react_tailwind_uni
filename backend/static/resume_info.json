@@ -1,0 +1,115 @@
+{
+    "1": {
+        "name": "John Doe",
+        "contact": {
+            "email": "johndoe@example.com",
+            "phone": "+1234567890",
+            "address": "123 Main Street, Cityville, Country"
+        },
+        "summary": "A highly motivated software developer with 5+ years of experience in building scalable web applications and working with cross-functional teams.",
+        "skills": [
+            "JavaScript",
+            "Python",
+            "React",
+            "Node.js",
+            "SQL",
+            "Git"
+        ],
+        "experience": [
+            {
+                "job_title": "Software Engineer",
+                "company": "Tech Solutions Inc.",
+                "start_date": "2018.06",
+                "end_date": "2022.12",
+                "responsibilities": [
+                    "Developed and maintained web applications using React and Node.js.",
+                    "Collaborated with designers and product managers to deliver user-friendly interfaces.",
+                    "Optimized application performance, reducing load times by 30%."
+                ]
+            }
+        ],
+        "education": [
+            {
+                "degree": "Bachelor of Science in Computer Science",
+                "institution": "University of Technology",
+                "graduation_year": 2018
+            }
+        ]
+    },
+    "2": {
+        "name": "Jane Smith",
+        "contact": {
+            "email": "janesmith@example.org",
+            "phone": "+9876543210",
+            "address": "456 Elm Avenue, Townsburg, Nationland"
+        },
+        "summary": "Experienced full-stack developer with a strong background in cloud infrastructure and building data-driven applications. Passionate about creating efficient and maintainable software solutions.",
+        "skills": [
+            "Go",
+            "TypeScript",
+            "Angular",
+            "Docker",
+            "Kubernetes",
+            "PostgreSQL",
+            "CI/CD"
+        ],
+        "experience": [
+            {
+                "job_title": "Full Stack Developer",
+                "company": "CloudCore Systems",
+                "start_date": "2019-01",
+                "end_date": "2023-08",
+                "responsibilities": [
+                    "Built and maintained microservices in Go for a large-scale SaaS platform.",
+                    "Implemented Angular-based frontend features with a focus on responsiveness and accessibility.",
+                    "Led CI/CD pipeline automation using Jenkins and GitHub Actions, reducing deployment times by 50%."
+                ]
+            }
+        ],
+        "education": [
+            {
+                "degree": "Master of Science in Software Engineering",
+                "institution": "TechState University",
+                "graduation_year": 2019
+            }
+        ]
+    },
+    "3": {
+        "name": "Carlos Rivera",
+        "contact": {
+            "email": "c.rivera@example.net",
+            "phone": "+1122334455",
+            "address": "789 Oak Lane, Metropolis, Republica"
+        },
+        "summary": "Detail-oriented DevOps engineer with 6+ years of experience in automating infrastructure, improving system reliability, and optimizing cloud operations in fast-paced environments.",
+        "skills": [
+            "AWS",
+            "Terraform",
+            "Ansible",
+            "Linux",
+            "Python",
+            "CI/CD",
+            "Monitoring (Prometheus, Grafana)"
+        ],
+        "experience": [
+            {
+                "job_title": "DevOps Engineer",
+                "company": "NextGen Cloud Services",
+                "start_date": "2017-04",
+                "end_date": "2023-10",
+                "responsibilities": [
+                    "Designed and managed AWS-based infrastructure using Terraform and Ansible.",
+                    "Implemented monitoring solutions with Prometheus and Grafana to track system health and reduce downtime.",
+                    "Collaborated with development teams to streamline CI/CD workflows and ensure reliable deployments."
+                ]
+            }
+        ],
+        "education": [
+            {
+                "degree": "Bachelor of Engineering in Information Technology",
+                "institution": "Republica Institute of Technology",
+                "graduation_year": 2016
+            }
+        ]
+    }
+}
